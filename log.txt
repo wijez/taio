@@ -1,0 +1,665 @@
+ID: 00012679, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: TRUNG TÂM KỸ THUẬT TIÊU CHUẨN ĐO LƯỜNG CHẤT LƯỢNG 3
+ID: 00000769, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MTV VĨNH HƯNG
+ID: 00000115, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN HOÀNG TRỌNG TÝ
+ID: 00002862, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DANH ĐẶNG
+ID: 00034083, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00005255, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00001696, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐỒNG KỸ THUẬT KOREA VIỆT NAM
+ID: 00033208, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00003708, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00002669, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00033926, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00033696, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00000389, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI ĐIỆN BÌNH SƠN
+ID: 00005253, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00033546, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00005256, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00005254, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00003432, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00001695, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐỒNG KỸ THUẬT KOREA VIỆT NAM
+ID: 00001534, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN NGỌC PHƯỚC
+ID: 00003422, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00000066, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH GIANG KIỀU
+ID: 00003616, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00000067, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH GIANG KIỀU
+ID: 00003578, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00000065, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH GIANG KIỀU
+ID: 00002702, Ngày phát hành: 09/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00000633, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN ĐẠT ANH TRANG
+ID: 00032801, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00003555, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00000021, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001274, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CHI NHÁNH CÔNG TY TNHH TIẾP VẬN THĂNG LONG TẠI THÀNH PHỐ HỒ CHÍ MINH
+ID: 00000289, Ngày phát hành: 21/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00006091, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SG SAGAWA VIỆT NAM
+ID: 00001273, Ngày phát hành: 30/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ TOÀN PHÁT LOGISTICS
+ID: 00001401, Ngày phát hành: 03/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ TOÀN PHÁT LOGISTICS
+ID: 00001059, Ngày phát hành: 28/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI PHÁT TRIỂN NHẤT TÍN – CHI NHÁNH BÌNH DƯƠNG
+ID: 00000265, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ HOÀNG ANH TÚ
+ID: 00000116, Ngày phát hành: 03/07/2024, Kỳ kê khai: Quý 3/2024, Khách hàng: CÔNG TY TNHH LOGOS VIỆT NAM BN 1
+ID: 00104690, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CHI NHÁNH CÔNG TY TNHH CAO PHONG TẠI BÌNH DƯƠNG
+ID: 00013445, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000365, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013443, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003434, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014211, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014210, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014209, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014212, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000009, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH NORMAL ME TECHNOLOGY
+ID: 00000118, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ ĐIỆN ATEC
+ID: 00001815, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001816, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001184, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH TI GIA
+ID: 00000309, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KIẾN MINH
+ID: 00003511, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00035098, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00000046, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00000047, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00003789, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003791, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00013445, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000365, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013443, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003434, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014211, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014210, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014209, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014212, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000009, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH NORMAL ME TECHNOLOGY
+ID: 00000118, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ ĐIỆN ATEC
+ID: 00001815, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001816, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001184, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH TI GIA
+ID: 00000309, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KIẾN MINH
+ID: 00003511, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013638, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013643, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013639, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003789, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003791, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00013445, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000365, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013443, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003434, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014211, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014210, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014209, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014212, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000009, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH NORMAL ME TECHNOLOGY
+ID: 00000118, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ ĐIỆN ATEC
+ID: 00001815, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001816, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001184, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH TI GIA
+ID: 00000309, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KIẾN MINH
+ID: 00003511, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00035098, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00000046, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00000047, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00003505, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00003471, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00005494, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00000929, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH K.S. TERMINALS VIỆT NAM
+ID: 00000398, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI ĐIỆN BÌNH SƠN
+ID: 00013441, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003792, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00002746, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013638, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013643, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013639, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003789, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003791, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00013445, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000365, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013443, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003434, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014211, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014210, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014209, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014212, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000009, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH NORMAL ME TECHNOLOGY
+ID: 00000118, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ ĐIỆN ATEC
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013638, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013643, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013639, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003789, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003791, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00013445, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000365, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013443, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003434, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014211, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014210, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014209, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014212, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000009, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH NORMAL ME TECHNOLOGY
+ID: 00000118, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ ĐIỆN ATEC
+ID: 00001815, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001816, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013638, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013643, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013639, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003789, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003791, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00013445, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000365, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013443, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003434, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014211, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014210, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014209, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014212, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000009, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH NORMAL ME TECHNOLOGY
+ID: 00000118, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ ĐIỆN ATEC
+ID: 00001815, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001816, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001184, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH TI GIA
+ID: 00000309, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KIẾN MINH
+ID: 00003511, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00035098, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00000046, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00000047, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00003505, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00003471, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00005494, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00000929, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH K.S. TERMINALS VIỆT NAM
+ID: 00000398, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI ĐIỆN BÌNH SƠN
+ID: 00013441, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003792, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00002746, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00002745, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00002747, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00000364, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013444, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013638, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013638, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013643, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013639, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003789, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003791, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00013445, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000365, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013443, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003434, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014211, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014210, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014209, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014212, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000009, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH NORMAL ME TECHNOLOGY
+ID: 00000118, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ ĐIỆN ATEC
+ID: 00001815, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001816, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001184, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH TI GIA
+ID: 00000309, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KIẾN MINH
+ID: 00003511, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00035098, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00000046, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00000047, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00003505, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013638, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013643, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013639, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003789, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003791, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00013445, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000365, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013443, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003434, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00014211, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014210, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014209, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014182, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014183, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014215, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00014212, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00000009, Ngày phát hành: 19/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH NORMAL ME TECHNOLOGY
+ID: 00000118, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ ĐIỆN ATEC
+ID: 00001815, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001816, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001184, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH TI GIA
+ID: 00000309, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KIẾN MINH
+ID: 00003511, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00035098, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00000046, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00000047, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN ATK
+ID: 00003505, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00003471, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00005494, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00000929, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH K.S. TERMINALS VIỆT NAM
+ID: 00000398, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI ĐIỆN BÌNH SƠN
+ID: 00013441, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003792, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00002746, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00002745, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00002747, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00000364, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013444, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00003788, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003790, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003774, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00003773, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00005461, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00000379, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN TD TOÀN CẦU
+ID: 00009004, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI-DỊCH VỤ-KỸ THUẬT ĐIỆN HUỲNH LAI
+ID: 00001483, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CONG TY TNHH ABB AUTOMATION AND ELECTRIFICATION (VIET NAM)
+ID: 00001482, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CONG TY TNHH ABB AUTOMATION AND ELECTRIFICATION (VIET NAM)
+ID: 00000602, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH PHI THƯỜNG
+ID: 00000242, Ngày phát hành: 17/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THÁI MINH HƯNG
+ID: 00001756, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐỒNG KỸ THUẬT KOREA VIỆT NAM
+ID: 00001757, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐỒNG KỸ THUẬT KOREA VIỆT NAM
+ID: 00034575, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00012679, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: TRUNG TÂM KỸ THUẬT TIÊU CHUẨN ĐO LƯỜNG CHẤT LƯỢNG 3
+ID: 00000769, Ngày phát hành: 18/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MTV VĨNH HƯNG
+ID: 00000115, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN HOÀNG TRỌNG TÝ
+ID: 00002862, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DANH ĐẶNG
+ID: 00034083, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00005255, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00001696, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐỒNG KỸ THUẬT KOREA VIỆT NAM
+ID: 00033208, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00003708, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00002669, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT CÔNG NGHIỆP VÀ THƯƠNG MẠI VÍT VIỆT
+ID: 00033926, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00033696, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00000389, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI ĐIỆN BÌNH SƠN
+ID: 00005253, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00033546, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00005256, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00005254, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THÁI SƠN NAM
+ID: 00003432, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00001695, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐỒNG KỸ THUẬT KOREA VIỆT NAM
+ID: 00001534, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN NGỌC PHƯỚC
+ID: 00003422, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công ty Cổ phần Thương Mại Nam Á
+ID: 00000066, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH GIANG KIỀU
+ID: 00003616, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00000067, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH GIANG KIỀU
+ID: 00003578, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00000065, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH GIANG KIỀU
+ID: 00002702, Ngày phát hành: 09/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00000633, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN ĐẠT ANH TRANG
+ID: 00032801, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN CÔNG NGHỆ HỢP LONG
+ID: 00003555, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI KỸ THUẬT THIÊN LỘC PHÁT
+ID: 00000021, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001274, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CHI NHÁNH CÔNG TY TNHH TIẾP VẬN THĂNG LONG TẠI THÀNH PHỐ HỒ CHÍ MINH
+ID: 00000289, Ngày phát hành: 21/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00006091, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SG SAGAWA VIỆT NAM
+ID: 00001273, Ngày phát hành: 30/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ TOÀN PHÁT LOGISTICS
+ID: 00001401, Ngày phát hành: 03/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ TOÀN PHÁT LOGISTICS
+ID: 00001059, Ngày phát hành: 28/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI PHÁT TRIỂN NHẤT TÍN – CHI NHÁNH BÌNH DƯƠNG
+ID: 00000265, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ HOÀNG ANH TÚ
+ID: 00000116, Ngày phát hành: 03/07/2024, Kỳ kê khai: Quý 3/2024, Khách hàng: CÔNG TY TNHH LOGOS VIỆT NAM BN 1
+ID: 00104690, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CHI NHÁNH CÔNG TY TNHH CAO PHONG TẠI BÌNH DƯƠNG
+ID: 00000138, Ngày phát hành: 08/04/2024, Kỳ kê khai: , Khách hàng: CÔNG TY TNHH LT HƯNG LỢI PHÁT
+ID: 00016926, Ngày phát hành: 01/07/2024, Kỳ kê khai: Tháng 7/2024, Khách hàng: CHI NHÁNH CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI CỘNG HÒA
+ID: 00000456, Ngày phát hành: 07/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MANKICHI SOFTWARE (VIETNAM)
+ID: 92631497, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI
+ID: 92631291, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI
+ID: 00001611, Ngày phát hành: 28/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN MÔI TRƯỜNG SAO VIỆT
+ID: 92631067, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI
+ID: 92631342, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI
+ID: 92631244, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: TẬP ĐOÀN CÔNG NGHIỆP - VIỄN THÔNG QUÂN ĐỘI
+ID: 00009303, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY LIÊN DOANH TNHH KHU CÔNG NGHIỆP VIỆT NAM-SINGAPORE
+ID: 00000706, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN DỊCH VỤ DU LỊCH ĐƯỜNG SẮT HÀ NỘI
+ID: 00009301, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY LIÊN DOANH TNHH KHU CÔNG NGHIỆP VIỆT NAM-SINGAPORE
+ID: 00003807, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00009302, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY LIÊN DOANH TNHH KHU CÔNG NGHIỆP VIỆT NAM-SINGAPORE
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00000925, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN DỊCH VỤ VÀ SẢN PHẨM CÔNG NGHIỆP QUỐC TẾ
+ID: 00013544, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN NƯỚC - MÔI TRƯỜNG BÌNH DƯƠNG
+ID: 00000191, Ngày phát hành: 21/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT SƠN PHOENIX ( VIỆT NAM )
+ID: 00000007, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DV PHÚ AN KHÁNH
+ID: 00000481, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00027434, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN GIAO NHẬN VẬN TẢI CON ONG
+ID: 00000886, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: HỘ KINH DOANH KHA NHƯ THỦY
+ID: 00000168, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ITATSU VIỆT NAM
+ID: 00000019, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DỊCH VỤ CƠ KHÍ QUANG ANH
+ID: 00001004, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH E.U.C
+ID: 00000008, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DV PHÚ AN KHÁNH
+ID: 00000850, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HUẤN LUYỆN VÀ KIỂM ĐỊNH AN TOÀN 3
+ID: 00001474, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 00000125, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ XÂY DỰNG PCCC HÙNG VƯƠNG
+ID: 00001460, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 00000418, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DV SẢN XUẤT THÀNH ĐẠT
+ID: 00003725, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00036341, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH COLUMBIA ASIA BÌNH DƯƠNG
+ID: 00000198, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI HIỆP TRÍ
+ID: 00000170, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI HIỆP TRÍ
+ID: 00004870, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH KHÍ CÔNG NGHIỆP MESSER VIỆT NAM
+ID: 00000746, Ngày phát hành: 03/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT - THƯƠNG MẠI - DỊCH VỤ HOÀNG HƯNG
+ID: 00000782, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ THIẾT BỊ ĐIỆN LÂM NGUYÊN
+ID: 00000781, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ THIẾT BỊ ĐIỆN LÂM NGUYÊN
+ID: 00001743, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00000650, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00001658, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH WONDER KITCHEN
+ID: 00001659, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH WONDER KITCHEN
+ID: 00186576, Ngày phát hành: 26/06/2024, Kỳ kê khai: Quý 2/2024, Khách hàng: CÔNG TY CỔ PHẦN DỊCH VỤ HÀNG HÓA SÀI GÒN
+ID: 00000520, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00013537, Ngày phát hành: 01/07/2024, Kỳ kê khai: Quý 3/2024, Khách hàng: CÔNG TY TNHH MELODY LOGISTICS
+ID: 00013746, Ngày phát hành: 03/07/2024, Kỳ kê khai: Quý 3/2024, Khách hàng: CÔNG TY TNHH MELODY LOGISTICS
+ID: 00000117, Ngày phát hành: 04/07/2024, Kỳ kê khai: Quý 3/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN VINA TAK
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000007, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DV PHÚ AN KHÁNH
+ID: 00000481, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00027434, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN GIAO NHẬN VẬN TẢI CON ONG
+ID: 00000886, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: HỘ KINH DOANH KHA NHƯ THỦY
+ID: 00000168, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ITATSU VIỆT NAM
+ID: 00000019, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DỊCH VỤ CƠ KHÍ QUANG ANH
+ID: 00000007, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DV PHÚ AN KHÁNH
+ID: 00000007, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DV PHÚ AN KHÁNH
+ID: 00000481, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00000007, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DV PHÚ AN KHÁNH
+ID: 00000481, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00027434, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY CỔ PHẦN GIAO NHẬN VẬN TẢI CON ONG
+ID: 00000886, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: HỘ KINH DOANH KHA NHƯ THỦY
+ID: 00000168, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ITATSU VIỆT NAM
+ID: 00000019, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DỊCH VỤ CƠ KHÍ QUANG ANH
+ID: 00001004, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH E.U.C
+ID: 00000008, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH DV PHÚ AN KHÁNH
+ID: 00000850, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HUẤN LUYỆN VÀ KIỂM ĐỊNH AN TOÀN 3
+ID: 00001474, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 00000125, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ XÂY DỰNG PCCC HÙNG VƯƠNG
+ID: 00001460, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 00000418, Ngày phát hành: 27/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DV SẢN XUẤT THÀNH ĐẠT
+ID: 00003725, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00036341, Ngày phát hành: 15/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH COLUMBIA ASIA BÌNH DƯƠNG
+ID: 00000198, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI HIỆP TRÍ
+ID: 00000170, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI HIỆP TRÍ
+ID: 00004870, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH KHÍ CÔNG NGHIỆP MESSER VIỆT NAM
+ID: 00000746, Ngày phát hành: 03/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT - THƯƠNG MẠI - DỊCH VỤ HOÀNG HƯNG
+ID: 00000782, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ THIẾT BỊ ĐIỆN LÂM NGUYÊN
+ID: 00000781, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ THIẾT BỊ ĐIỆN LÂM NGUYÊN
+ID: 00001743, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00000650, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00001658, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH WONDER KITCHEN
+ID: 00001659, Ngày phát hành: 24/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH WONDER KITCHEN
+ID: 00186576, Ngày phát hành: 26/06/2024, Kỳ kê khai: Quý 2/2024, Khách hàng: CÔNG TY CỔ PHẦN DỊCH VỤ HÀNG HÓA SÀI GÒN
+ID: 00000520, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00013537, Ngày phát hành: 01/07/2024, Kỳ kê khai: Quý 3/2024, Khách hàng: CÔNG TY TNHH MELODY LOGISTICS
+ID: 00013746, Ngày phát hành: 03/07/2024, Kỳ kê khai: Quý 3/2024, Khách hàng: CÔNG TY TNHH MELODY LOGISTICS
+ID: 00000117, Ngày phát hành: 04/07/2024, Kỳ kê khai: Quý 3/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN VINA TAK
+ID: 00000245, Ngày phát hành: 26/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Công Ty Cổ Phần Bigshop Việt Nam
+ID: 00000239, Ngày phát hành: 31/05/2024, Kỳ kê khai: Tháng 5/2024, Khách hàng: CÔNG TY TNHH NGUỒN NHÂN LỰC XANH
+ID: 00001002, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI VIỆT XANH
+ID: 00000465, Ngày phát hành: 11/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH VIỆT NAM MUSASHI PAINT
+ID: 00001212, Ngày phát hành: 10/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH BẢO HỘ LAO ĐỘNG AN AN
+ID: 00001322, Ngày phát hành: 06/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: LẠI DUY CÔNG
+ID: 00000267, Ngày phát hành: 05/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ VẬN TẢI SẮT THÉP HOÀNG PHÁT TÀI
+ID: 00003724, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH HANKYU HANSHIN EXPRESS VIỆT NAM
+ID: 00000655, Ngày phát hành: 25/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000630, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000674, Ngày phát hành: 29/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ NHÀ HÀNG - KHÁCH SẠN PHẠM VÂN
+ID: 00000018, Ngày phát hành: 11/06/2024, Kỳ kê khai: , Khách hàng: CÔNG TY CỔ PHẦN SCG VIỆT NAM
+ID: 00001425, Ngày phát hành: 20/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THIẾT BỊ MÁY MÓC HUỲNH ANH
+ID: 03011596, Ngày phát hành: 02/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: Trung tâm Kinh doanh VNPT - Hà Nội - Chi nhánh Tổng công ty Dịch vụ Viễn thông
+ID: 00000366, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH ĐẦU TƯ PHÁT TRIỂN THƯƠNG MẠI DÂY VÀ CÁP ĐIỆN HOÀNG PHÁT
+ID: 00013442, Ngày phát hành: 12/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00001791, Ngày phát hành: 14/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00001770, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TNHH THƯƠNG MẠI THIẾT BỊ ĐIỆN ALPHA
+ID: 00013642, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013644, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013641, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013640, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM
+ID: 00013638, Ngày phát hành: 13/06/2024, Kỳ kê khai: Tháng 6/2024, Khách hàng: CÔNG TY TRÁCH NHIỆM HỮU HẠN SCHNEIDER ELECTRIC VIỆT NAM

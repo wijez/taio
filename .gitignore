@@ -1,0 +1,7 @@
+.venv
+.idea
+.edgedriver_win32
+.env
+Data
+Output
+.log.txt
