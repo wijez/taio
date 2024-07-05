@@ -3,11 +3,30 @@ class TaioConstant:
         self.flag = False
         self.PAGE = None
         self.BUTTON_ACTION = None
+        self.NEXT_5_PAGE = None
         self.index = 2
         self.page_numbers = 3
         self.release_date = None
         self.declaration_period = None
+        self.update_next_5_page(isActivate=None)
+        self.update_next_page(isActivate=None, next_5_page=None)
 
+    def update_next_5_page(self, isActivate):
+        if isActivate == 0:
+            self.NEXT_5_PAGE = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div/div[3]/div/div/ul/li[8]'
+        else:
+            self.NEXT_5_PAGE='//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div/div[3]/div/div/ul/li[10]'
+
+    def update_next_page(self, isActivate, next_5_page):
+        if next_5_page == 0:
+            if isActivate < 3:
+                self.PAGE = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div/div[3]/div/div/ul/li[10]'
+            elif isActivate == 4:
+                self.PAGE = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div/div[3]/div/div/ul/li[11]'
+        else:
+            self.PAGE = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div/div[3]/div/div/ul/li[12]'
+
+    BUTTON_DOWNLOAD = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/button[1]/span'
     NUMBER = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/button[2]/span'
     ID = '/html/body/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/table/tbody/tr[3]/td[1]/span[2]'
     SUPPILER = '/html/body/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/table/tbody/tr[4]/td/span[2]'
@@ -39,7 +58,7 @@ class TaioConstant:
     }
     LATEST_VERSION = 'v1'
     DELAY_OPEN_MAXIMUM_BROWSER = 2
-    DELAY_TIME_LOAD_PAGE = 8
+    DELAY_TIME_LOAD_PAGE = 10
     DELAY_CLICK_DOWNLOAD_EVERY_FILE = 5
     DELAY_TIME_SKIP = 4
     RETRY_MAX = 5

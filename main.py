@@ -12,7 +12,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from constant import taio_constant
 
-from process_zip import delete_pdf_files
+from process_zip import delete_pdf_files, count_log_lines
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger('taio-bill')
@@ -58,6 +58,25 @@ def log_info():
         log_file.write(log_entry)
 
 
+def move_current_page():
+    line = count_log_lines('log.txt')
+    print("line", line)
+    result = line // 10
+    next_page = result % 5
+    next_5_page = result // 5
+    for _ in range(next_5_page):
+        taio_constant.update_next_5_page(_)
+        next_page_button = wait.until(EC.element_to_be_clickable((By.XPATH, taio_constant.NEXT_5_PAGE)))
+        next_page_button.click()
+        time.sleep(taio_constant.SLEEP)
+    for _ in range(next_page):
+        taio_constant.update_next_page(_, next_5_page)
+        next_page_button = wait.until(EC.element_to_be_clickable((By.XPATH, taio_constant.PAGE)))
+        next_page_button.click()
+        time.sleep(taio_constant.SLEEP)
+
+
+move_current_page()
 driver.find_element(By.XPATH, value=taio_constant.FIRST_ROW).click()
 time.sleep(taio_constant.DELAY_TIME_LOAD_PAGE)
 
@@ -81,14 +100,14 @@ def process_page(first_pos, worker):
         # next_page_button = wait.until(EC.element_to_be_clickable((By.XPATH, taio_constant.NEXT_PAGE)))
         # next_page_button.click()
         # time.sleep(taio_constant.SLEEP)
-        delete_pdf_files(download_directory)
+        # delete_pdf_files(download_directory)
         enable_move(worker)
-        time.sleep(taio_constant.DELAY_TIME_SKIP)
+        time.sleep(taio_constant.DELAY_TIME_LOAD_PAGE)
 
 
 def main():
     # processes = []
-    for _ in range(2):
+    for _ in range(1, 2):
         p = multiprocessing.Process(target=process_page, args=(_, 2))
         # processes.append(p)
         p.start()

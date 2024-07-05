@@ -37,4 +37,16 @@ def process_all_zip_files(folder_path):
             delete_pdf_files(file_path)
 
 
-# Example usage
+def count_log_lines(log_file_path):
+    line_count = 0
+    try:
+        with open(log_file_path, 'r', encoding='utf-8') as log_file:
+            for line in log_file:
+                line_count += 1
+    except FileNotFoundError:
+        print(f"The file {log_file_path} does not exist.")
+    except Exception as e:
+        print(f"An error occurred while reading the file: {e}")
+
+    return line_count
+
