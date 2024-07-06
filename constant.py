@@ -3,6 +3,7 @@ class TaioConstant:
         self.flag = False
         self.PAGE = None
         self.BUTTON_ACTION = None
+        self.ROW = None
         self.NEXT_5_PAGE = None
         self.index = 2
         self.page_numbers = 3
@@ -10,6 +11,7 @@ class TaioConstant:
         self.declaration_period = None
         self.update_next_5_page(isActivate=None)
         self.update_next_page(isActivate=None, next_5_page=None)
+        self.update_row(isActivate=None)
 
     def update_next_5_page(self, isActivate):
         if isActivate == 0:
@@ -26,6 +28,10 @@ class TaioConstant:
         else:
             self.PAGE = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div/div[3]/div/div/ul/li[12]'
 
+    def update_row(self, isActivate):
+        self.ROW = (f'//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div/div['
+                    f'3]/div/div/div/div/div[2]/table/tbody/tr[{isActivate}]')
+
     BUTTON_DOWNLOAD = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/button[1]/span'
     NUMBER = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/button[2]/span'
     ID = '/html/body/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/table/tbody/tr[3]/td[1]/span[2]'
@@ -39,7 +45,6 @@ class TaioConstant:
                  '2]/table/tbody/tr[2]')
     NEXT_PAGE = '//*[@id="primaryLayout"]/main/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/button[3]'
     BUTTON_DOWNLOAD = '/html/body/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div[1]/div/div[1]/div/div[1]/button[8]'
-    BUTTON_DOWNLOAD_CLASS = 'ant-btn ant-tooltip-open ant-btn-link ant-btn-sm ant-btn-icon-only'
 
     URL = "https://hoadon.taio.vn/"
     CORE_NAME = "TAIO"

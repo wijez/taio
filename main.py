@@ -62,6 +62,8 @@ def move_current_page():
     line = count_log_lines('log.txt')
     print("line", line)
     result = line // 10
+    row = (line % 10) + 2
+    taio_constant.update_row(row)
     next_page = result % 5
     next_5_page = result // 5
     for _ in range(next_5_page):
@@ -77,7 +79,8 @@ def move_current_page():
 
 
 move_current_page()
-driver.find_element(By.XPATH, value=taio_constant.FIRST_ROW).click()
+current_row = wait.until(EC.element_to_be_clickable((By.XPATH, taio_constant.ROW)))
+current_row.click()
 time.sleep(taio_constant.DELAY_TIME_LOAD_PAGE)
 
 
@@ -97,9 +100,6 @@ def process_page(first_pos, worker):
         download_button = wait.until(EC.element_to_be_clickable((By.XPATH, taio_constant.BUTTON_DOWNLOAD)))
         download_button.click()
         time.sleep(taio_constant.SLEEP)
-        # next_page_button = wait.until(EC.element_to_be_clickable((By.XPATH, taio_constant.NEXT_PAGE)))
-        # next_page_button.click()
-        # time.sleep(taio_constant.SLEEP)
         # delete_pdf_files(download_directory)
         enable_move(worker)
         time.sleep(taio_constant.DELAY_TIME_LOAD_PAGE)
@@ -107,7 +107,7 @@ def process_page(first_pos, worker):
 
 def main():
     # processes = []
-    for _ in range(1, 2):
+    for _ in range(2):
         p = multiprocessing.Process(target=process_page, args=(_, 2))
         # processes.append(p)
         p.start()
