@@ -66,7 +66,7 @@ class TaioConstant:
     DELAY_TIME_LOAD_PAGE = 10
     DELAY_CLICK_DOWNLOAD_EVERY_FILE = 5
     DELAY_TIME_SKIP = 4
-    RETRY_MAX = 5
+    RETRY_MAX = 2
     SLEEP = 5
 
 
